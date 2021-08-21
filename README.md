@@ -1,1 +1,1 @@
-# sunspots
+# 7th semester under graduate project
