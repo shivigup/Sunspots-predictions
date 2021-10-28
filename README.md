@@ -1,3 +1,7 @@
-# 7th semester under graduate project
-Under Prof. Mahendra K Verma
+# Predicting sunspot number using Machine Learning methods
+
+## Dataset
+
+
+## Models
 
